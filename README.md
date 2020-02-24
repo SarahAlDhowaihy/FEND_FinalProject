@@ -9,7 +9,7 @@ For the **Restaurant Reviews** projects, you will incrementally convert a static
 
 Restaurant Review projects created by Udacity. The application display a list of restaurants. the users can filter the list and see more details about a restaurant like the location on the map and operating hours. 
 
-## How to run the project: 
+## How to Run the Project: 
 
 1. From inside the new directory, launch a local client server using Python from your terminal:
 Python 2: `python -m SimpleHTTPServer 8000`
