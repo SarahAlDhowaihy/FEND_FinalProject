@@ -16,7 +16,8 @@ Python 2: `python -m SimpleHTTPServer 8000`
 Python 3: `python3 -m http.server 8000`
 2. Visit the site in your browser at http://localhost:8000
 
-### Project Rubric
+
+## Project Rubric:
 
 Your project will be evaluated by a Udacity code reviewer according to the [Restaurant Reviews project rubric](https://review.udacity.com/#!/rubrics/1090/view). Please review for detailed project requirements. The rubric should be a resource you refer to periodically to make sure your project meets specifications.
 
